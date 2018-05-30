@@ -1,0 +1,6 @@
+[submodule "libs/vector3d-cpp"]
+	path = libs/vector3d-cpp
+	url = git@github.com:erikbrntsn/vector3d-cpp.git
+[submodule "libs/quaternion-cpp"]
+	path = libs/quaternion-cpp
+	url = git@github.com:erikbrntsn/quaternion-cpp.git
