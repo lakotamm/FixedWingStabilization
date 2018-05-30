@@ -4,7 +4,7 @@ This repository includes files and applications which have been written as a pro
 A short description of the project (for detailed description, read project documentation)
 Goal of the project:
 - stabilization of the airplane 
-- qaternion bazed leveling od the drone
+- qaternion based leveling and angle control of the drone
 
 Used Hardware:
 - Drone: modified eBee
