@@ -7,9 +7,9 @@ Goal of the project:
 - qaternion bazed leveling od the drone
 
 Used Hardware:
-Drone: eBee by senseFly
-MCU: STM32F745
-OS: ChibiOS RTOS
+- Drone: modified eBee
+- MCU: STM32F745
+- OS: ChibiOS RTOS
 
 The control algorithms have been heavily inspired iNavFlight
 https://github.com/iNavFlight/inav
