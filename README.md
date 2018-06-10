@@ -11,5 +11,9 @@ Used Hardware:
 - MCU: STM32F745
 - OS: ChibiOS RTOS
 
-The control algorithms have been heavily inspired iNavFlight
+Videos from test flying in constant airspeed mode:
+https://youtu.be/7YsSWli3TQw
+https://youtu.be/wzces0OusMo
+
+The control algorithms have been heavily inspired by iNavFlight
 https://github.com/iNavFlight/inav
